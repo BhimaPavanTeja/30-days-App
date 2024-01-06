@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">30 Days Of Gym</string>
+    <string name="name1" translatable="false">exercise</string>
+    <string name="des1" translatable="false">Treadmill running</string>
+    <string name="des2" translatable="false">Weight lifitling</string>
+    <string name="des3" translatable="false">Dumbles push-up</string>
+    <string name="des4" translatable="false">Leg lifting</string>
+    <string name="des5" translatable="false">Cycling</string>
+    <string name="des6" translatable="false">Push ups</string>
+    <string name="des7" translatable="false">Rope exercise</string>
+    <string name="des8" translatable="false">Ball with hands</string>
+    <string name="des9" translatable="false">Pushing weight blocks</string>
+    <string name="des10" translatable="false">Chest exercise</string>
+</resources>
